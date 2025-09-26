@@ -7,16 +7,18 @@ It covers ranking, aggregation, navigation, and distribution functions to delive
 ---
 
 ## Business Problem
+
 **Business Context:** Rugali Coffee, a regional coffee production and retail company.  
 **Data Challenge:** The company wants to identify top-selling products, track customer purchase trends, and analyze regional sales performance over time.  
 **Expected Outcome:** Provide detailed analytics to guide marketing strategies, inventory planning, and customer segmentation.
 
 Results Analysis
+
 **Descriptive:** Monthly sales grew steadily, with Kigali region leading in product diversity and revenue.  
 **Diagnostic:** Growth spikes align with seasonal promotions and product launches.  
 **Prescriptive:** Focus marketing on top-quartile customers and maintain stock for top-ranked products.
 
-<!-- References -->
+References
 
 Oracle. (2025). Window Functions.
 https://docs.oracle.com/en/database/oracle/oracle-database/19/sqlrf/Analytic-Functions.html
@@ -47,3 +49,7 @@ https://academy.oracle.com/en/oa-web-overview.html
 
 IBM Knowledge Center. (2024). Understanding SQL Analytic Functions.
 https://www.ibm.com/docs/en/db2/11.5?topic=functions-analyt
+
+
+
+
